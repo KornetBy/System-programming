@@ -1,0 +1,5 @@
+﻿  pch.c
+  dllmain.c
+E:\projects\System-programming\Lab3\Lab3\InjectDll\dllmain.c(16,23): warning C4477: "fprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "HANDLE"
+E:\projects\System-programming\Lab3\Lab3\InjectDll\dllmain.c(16,23): warning C4313: fprintf: конфликт "%d" в строке формата с аргументом 2 типа "HANDLE"
+  InjectDll.vcxproj -> E:\projects\System-programming\Lab3\Lab3\x64\Debug\InjectDll.dll

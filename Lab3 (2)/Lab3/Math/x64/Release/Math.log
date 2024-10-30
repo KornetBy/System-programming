@@ -1,0 +1,8 @@
+﻿  pch.c
+  Math.c
+     Создается библиотека D:\WPS\СП\Lab3\x64\Release\Math.lib и объект D:\WPS\СП\Lab3\x64\Release\Math.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Math.vcxproj -> D:\WPS\СП\Lab3\x64\Release\Math.dll

@@ -1,0 +1,7 @@
+﻿  Lab2.c
+E:\projects\System-programming\Lab2(alex)\Lab2\Lab2\Lab2.c(134,47): warning C4047: функция: "LPCWSTR" отличается по уровням косвенного обращения от "int"
+E:\projects\System-programming\Lab2(alex)\Lab2\Lab2\Lab2.c(134,44): warning C4024: LoadAcceleratorsW: различные типы для формального и фактического параметров 2
+E:\projects\System-programming\Lab2(alex)\Lab2\Lab2\Lab2.c(136,19): warning C4013: _beginthread: нет определения; предполагается "extern" с возвратом типа "int"
+E:\projects\System-programming\Lab2(alex)\Lab2\Lab2\Lab2.c(136,43): warning C4312: приведение типов: преобразование из "int" в "HANDLE" большего размера
+E:\projects\System-programming\Lab2(alex)\Lab2\Lab2\Lab2.c(148,12): warning C4244: return: преобразование "WPARAM" в "INT", возможна потеря данных
+  Lab2.vcxproj -> E:\projects\System-programming\Lab2(alex)\Lab2\x64\Debug\Lab2.exe

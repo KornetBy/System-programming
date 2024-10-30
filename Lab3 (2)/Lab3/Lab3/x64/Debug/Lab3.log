@@ -1,0 +1,3 @@
+﻿  Runtime.c
+D:\WPS\СП\Lab3\Lab3\Runtime.c(33,13): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "int"
+  Lab3.vcxproj -> D:\WPS\СП\Lab3\x64\Debug\Runtime.exe

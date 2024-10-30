@@ -1,0 +1,7 @@
+LIBRARY
+EXPORTS
+Sum=Sum
+Sub=Sub
+Mult=Mult
+Div=Div
+Part=Part

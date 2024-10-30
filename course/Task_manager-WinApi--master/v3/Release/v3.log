@@ -1,0 +1,16 @@
+﻿  v3.cpp
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(115,25): warning C4101: buf3: неиспользованная локальная переменная
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(115,7): warning C4101: buf1: неиспользованная локальная переменная
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(112,9): warning C4101: hBrush: неиспользованная локальная переменная
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(117,10): warning C4101: kY: неиспользованная локальная переменная
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(114,6): warning C4101: list_num: неиспользованная локальная переменная
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(113,7): warning C4101: chBuff: неиспользованная локальная переменная
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(117,6): warning C4101: kX: неиспользованная локальная переменная
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(115,16): warning C4101: buf2: неиспользованная локальная переменная
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(122,7): warning C4101: rect: неиспользованная локальная переменная
+  Создание кода
+  2 of 9 functions (22.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  v3.vcxproj -> E:\projects\System-programming\course\Task_manager-WinApi--master\Release\v3.exe

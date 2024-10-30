@@ -1,0 +1,7 @@
+﻿  Runtime.c
+D:\WPS\СП\Lab3\Lab3\Runtime.c(33,13): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "int"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Lab3.vcxproj -> D:\WPS\СП\Lab3\x64\Release\Runtime.exe

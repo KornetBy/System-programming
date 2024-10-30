@@ -1,0 +1,3 @@
+﻿  v2.cpp
+v2.obj : error LNK2019: ссылка на неразрешенный внешний символ "struct HWND__ * __cdecl ListView_Create(struct HWND__ *,wchar_t const *,unsigned long,int,int,int,int,struct HWND__ *,struct HMENU__ *,struct HINSTANCE__ *)" (?ListView_Create@@YAPEAUHWND__@@PEAU1@PEB_WKHHHH0PEAUHMENU__@@PEAUHINSTANCE__@@@Z) в функции "void __cdecl DisplayProcessList(struct HWND__ *,class std::vector<struct tagPROCESSENTRY32W,class std::allocator<struct tagPROCESSENTRY32W> > const &)" (?DisplayProcessList@@YAXPEAUHWND__@@AEBV?$vector@UtagPROCESSENTRY32W@@V?$allocator@UtagPROCESSENTRY32W@@@std@@@std@@@Z).
+E:\projects\System-programming\Task_manager\x64\Debug\v2.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

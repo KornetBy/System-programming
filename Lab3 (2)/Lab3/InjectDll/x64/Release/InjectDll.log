@@ -1,0 +1,9 @@
+﻿  pch.c
+  dllmain.c
+D:\WPS\СП\Lab3\InjectDll\dllmain.c(14,16): warning C4047: функция: "FILE *" отличается по уровням косвенного обращения от "FILE **"
+D:\WPS\СП\Lab3\InjectDll\dllmain.c(14,16): warning C4024: fclose: различные типы для формального и фактического параметров 1
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  InjectDll.vcxproj -> D:\WPS\СП\Lab3\x64\Release\InjectDll.dll

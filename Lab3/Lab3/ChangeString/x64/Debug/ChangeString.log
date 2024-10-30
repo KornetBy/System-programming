@@ -1,0 +1,8 @@
+﻿  pch.c
+  ChageString.c
+E:\projects\System-programming\Lab3\Lab3\ChangeString\ChageString.c(42,12): warning C4133: <: несовместимые типы - из "PSIZE_T" в "char *"
+E:\projects\System-programming\Lab3\Lab3\ChangeString\ChageString.c(29,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\projects\System-programming\Lab3\Lab3\ChangeString\ChageString.c(35,13): warning C4090: инициализация: разные квалификаторы "const"
+E:\projects\System-programming\Lab3\Lab3\ChangeString\ChageString.c(38,11): warning C4133: инициализация: несовместимые типы - из "PSIZE_T" в "char *"
+     Создается библиотека E:\projects\System-programming\Lab3\Lab3\x64\Debug\ChangeString.lib и объект E:\projects\System-programming\Lab3\Lab3\x64\Debug\ChangeString.exp
+  ChangeString.vcxproj -> E:\projects\System-programming\Lab3\Lab3\x64\Debug\ChangeString.dll

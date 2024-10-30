@@ -1,0 +1,9 @@
+﻿E:\vs\vs\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ModifyImageWithoutLibrary.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  pch.c
+  dllmain.c
+E:\projects\System-programming\Lab3(fin)\ModifyImageWithoutLibrary\dllmain.c(42,14): warning C4133: <: несовместимые типы - из "PSIZE_T" в "char *"
+E:\projects\System-programming\Lab3(fin)\ModifyImageWithoutLibrary\dllmain.c(29,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\projects\System-programming\Lab3(fin)\ModifyImageWithoutLibrary\dllmain.c(35,13): warning C4090: инициализация: разные квалификаторы "const"
+E:\projects\System-programming\Lab3(fin)\ModifyImageWithoutLibrary\dllmain.c(38,11): warning C4133: инициализация: несовместимые типы - из "PSIZE_T" в "char *"
+     Создается библиотека E:\projects\System-programming\Lab3(fin)\x64\Debug\change.lib и объект E:\projects\System-programming\Lab3(fin)\x64\Debug\change.exp
+  ModifyImageWithoutLibrary.vcxproj -> E:\projects\System-programming\Lab3(fin)\x64\Debug\change.dll

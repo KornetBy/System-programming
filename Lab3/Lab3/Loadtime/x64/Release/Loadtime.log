@@ -1,0 +1,4 @@
+﻿Loadtime.obj : error LNK2001: неразрешенный внешний символ __imp_Addition.
+Loadtime.obj : error LNK2001: неразрешенный внешний символ __imp_Subtraction.
+Loadtime.obj : error LNK2001: неразрешенный внешний символ __imp_PrintResult.
+D:\WPS\СП\Lab3\x64\Release\Loadtime.exe : fatal error LNK1120: неразрешенных внешних элементов: 3

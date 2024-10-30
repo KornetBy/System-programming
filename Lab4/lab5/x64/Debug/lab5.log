@@ -1,0 +1,6 @@
+﻿  QueueHandler.cpp
+  Source.cpp
+C:\Users\Korne\OneDrive\Desktop\TaskQueue-master\TaskQueue-master\Source.cpp(130,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  TaskQueue.cpp
+  Создание кода...
+  lab5.vcxproj -> E:\projects\System-programming\Lab4\x64\Debug\lab5.exe

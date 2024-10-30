@@ -1,0 +1,21 @@
+﻿  main.cpp
+E:\projects\System-programming\course\Task_manager-WinApi--master\v4\main.cpp(12,1): warning C4005: WINVER: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\sdkddkver.h(244,1): message : см. предыдущее определение "WINVER"
+E:\projects\System-programming\course\Task_manager-WinApi--master\v4\main.cpp(81,28): warning C4101: buf3: неиспользованная локальная переменная
+E:\projects\System-programming\course\Task_manager-WinApi--master\v4\main.cpp(81,10): warning C4101: buf1: неиспользованная локальная переменная
+E:\projects\System-programming\course\Task_manager-WinApi--master\v4\main.cpp(78,12): warning C4101: hBrush: неиспользованная локальная переменная
+E:\projects\System-programming\course\Task_manager-WinApi--master\v4\main.cpp(82,13): warning C4101: kY: неиспользованная локальная переменная
+E:\projects\System-programming\course\Task_manager-WinApi--master\v4\main.cpp(80,9): warning C4101: list_num: неиспользованная локальная переменная
+E:\projects\System-programming\course\Task_manager-WinApi--master\v4\main.cpp(79,10): warning C4101: chBuff: неиспользованная локальная переменная
+E:\projects\System-programming\course\Task_manager-WinApi--master\v4\main.cpp(82,9): warning C4101: kX: неиспользованная локальная переменная
+E:\projects\System-programming\course\Task_manager-WinApi--master\v4\main.cpp(81,19): warning C4101: buf2: неиспользованная локальная переменная
+E:\projects\System-programming\course\Task_manager-WinApi--master\v4\main.cpp(86,10): warning C4101: rect: неиспользованная локальная переменная
+E:\projects\System-programming\course\Task_manager-WinApi--master\v4\main.cpp(665,29): warning C4477: "swprintf_s": в строке форматирования "%s" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "char *"
+E:\projects\System-programming\course\Task_manager-WinApi--master\v4\main.cpp(665,29): message : рекомендуется использовать "%hs" в строке форматирования
+E:\projects\System-programming\course\Task_manager-WinApi--master\v4\main.cpp(665,29): message : рекомендуется использовать "%Ts" в строке форматирования
+E:\projects\System-programming\course\Task_manager-WinApi--master\v4\main.cpp(665,29): message : это предупреждение основано на нестандартной семантике, используемой Visual C++
+E:\projects\System-programming\course\Task_manager-WinApi--master\v4\main.cpp(668,29): warning C4477: "swprintf_s": в строке форматирования "%s" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "char *"
+E:\projects\System-programming\course\Task_manager-WinApi--master\v4\main.cpp(668,29): message : рекомендуется использовать "%hs" в строке форматирования
+E:\projects\System-programming\course\Task_manager-WinApi--master\v4\main.cpp(668,29): message : рекомендуется использовать "%Ts" в строке форматирования
+E:\projects\System-programming\course\Task_manager-WinApi--master\v4\main.cpp(668,29): message : это предупреждение основано на нестандартной семантике, используемой Visual C++
+  v4.vcxproj -> E:\projects\System-programming\course\Task_manager-WinApi--master\Debug\v4.exe

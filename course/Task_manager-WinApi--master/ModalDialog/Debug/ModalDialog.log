@@ -1,0 +1,3 @@
+﻿cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  Task_Manager.cpp
+  ModalDialog.vcxproj -> E:\projects\System-programming\course\Task_manager-WinApi--master\Debug\Task_Manager.exe

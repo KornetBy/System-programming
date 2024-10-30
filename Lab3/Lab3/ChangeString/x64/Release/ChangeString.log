@@ -1,0 +1,9 @@
+﻿  ChageString.c
+D:\WPS\СП\Lab3\ChangeString\ChageString.c(34,12): warning C4133: <: несовместимые типы - из "LPVOID" в "char *"
+     Создается библиотека D:\WPS\СП\Lab3\x64\Release\ChangeString.lib и объект D:\WPS\СП\Lab3\x64\Release\ChangeString.exp
+  Создание кода
+  1 of 2 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ChangeString.vcxproj -> D:\WPS\СП\Lab3\x64\Release\ChangeString.dll

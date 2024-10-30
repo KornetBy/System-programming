@@ -1,0 +1,18 @@
+﻿  v3.cpp
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(152,3): error C2065: hPr: необъявленный идентификатор
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(158,21): error C2065: hPr: необъявленный идентификатор
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(167,21): error C2672: "__countof_helper": не найдена соответствующая перегруженная функция
+E:\vs\vs\VC\Tools\MSVC\14.36.32532\include\vcruntime.h(253,16): message : может быть "char (*__countof_helper(_CountofType (&)[_SizeOfArray]))[_SizeOfArray]"
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(167,21): message : 'char (*__countof_helper(_CountofType (&)[_SizeOfArray]))[_SizeOfArray]': не удалось вывести аргумент шаблон для '_CountofType (&)[_SizeOfArray]' из 'char *'
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(167,3): error C2660: _itoa_s: функция не принимает 3 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdlib.h(626,26): message : см. объявление "_itoa_s"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdlib.h(633,1): message : может быть "errno_t _itoa_s(int,char (&)[_Size],int) throw()"
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(167,3): message : 'errno_t _itoa_s(int,char (&)[_Size],int) throw()': не удалось вывести аргумент шаблон для 'char (&)[_Size]' из 'char *'
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(167,3): message : при попытке сопоставить список аргументов "(int, char *, int)"
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(257,20): error C2065: hPr: необъявленный идентификатор
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(258,31): error C2065: hPr: необъявленный идентификатор
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(198,4): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(244,4): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(287,4): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(310,4): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\projects\System-programming\course\Task_manager-WinApi--master\v3\v3.cpp(334,4): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

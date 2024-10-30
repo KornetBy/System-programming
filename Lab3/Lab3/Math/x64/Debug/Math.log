@@ -1,0 +1,4 @@
+﻿D:\ALL_PROGRAM\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Math.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  LINK : не найден или не выполнена сборка D:\WPS\СП\Lab3\x64\Debug\MathDll.dll при последней инкрементной компоновке; выполняется полная компоновка
+     Создается библиотека D:\WPS\СП\Lab3\x64\Debug\MathDll.lib и объект D:\WPS\СП\Lab3\x64\Debug\MathDll.exp
+  Math.vcxproj -> D:\WPS\СП\Lab3\x64\Debug\MathDll.dll
